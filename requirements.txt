@@ -1,0 +1,14 @@
+# Core web interface
+streamlit>=1.35.0
+
+# Official Google Gemini SDK
+google-genai>=0.1.1
+
+# OpenAI SDK (Supports OpenAI API keys)
+openai>=1.30.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Testing framework (optional, unittest is built-in)
+pytest>=8.0.0
